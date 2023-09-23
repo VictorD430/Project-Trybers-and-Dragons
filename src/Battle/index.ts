@@ -1,4 +1,3 @@
-// import Battle from './Battle';
+import Battle from './Battle';
 
-// export default Battle;
-// commit inicial
+export default Battle;
